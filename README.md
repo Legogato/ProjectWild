@@ -1,4 +1,4 @@
-# Samurai Game
+# Project Wild
 
 This repository contains the source code and assets for my videogame "Project Wild", an exploration 3d Open world
 
@@ -23,7 +23,7 @@ This repository contains the source code and assets for my videogame "Project Wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Legogato/SamuraiGame.git
+   git clone https://github.com/Legogato/ProjectWild.git
    ```
 2. Open Unity Hub and add the cloned project folder.
 3. Create a folder called "AssetsStore" in the folder Assets
